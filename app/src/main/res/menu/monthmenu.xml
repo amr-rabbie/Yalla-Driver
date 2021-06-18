@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:androclass="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item
+        android:id="@+id/monone"
+        androclass:title="+2"/>
+
+    <item
+        android:id="@+id/montwo"
+        androclass:title="+966"/>
+
+    <item
+        android:id="@+id/monthree"
+        androclass:title="+973"/>
+    <item
+        android:id="@+id/monfour"
+        androclass:title="+2"/>
+
+    <item
+        android:id="@+id/monfive"
+        androclass:title="+966"/>
+
+    <item
+        android:id="@+id/monsix"
+        androclass:title="+973"/>
+</menu>

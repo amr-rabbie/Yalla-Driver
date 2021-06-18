@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Aboutthisvirsion">عن هذا الاصدار</string>
+    <string name="AccountType">نوع الحساب</string>
+    <string name="AreYou">هل تود مغادرة التطبيق ؟</string>
+    <string name="Call">الاتصال بالراكب</string>
+    <string name="Colon">:</string>
+    <string name="Color">اللون</string>
+    <string name="Commpletedtrips">الرحلات المكتملة</string>
+    <string name="Document">الملفات</string>
+    <string name="Documents"/>
+    <string name="Driver_not_logged_in">أنت غير مسجل</string>
+    <string name="Emergencycauses">اسباب طارئة</string>
+    <string name="EnterYourPassAndNum">ادخل كلمة المور ورقم الهاتف</string>
+    <string name="Invalid_Trip_Status">حالة الرحلة غير صحيحة</string>
+    <string name="Iqama">اقامه</string>
+    <string name="JobCard"/>
+    <string name="LEAVEAPP">"مغادرة التطبيق الآن "</string>
+    <string name="LOADING">يرجي الأنتظار</string>
+    <string name="Logout">تسجيل الخروج</string>
+    <string name="Makemore">اصنع المزيد</string>
+    <string name="Message">الرسالة</string>
+    <string name="More">المزيد</string>
+    <string name="NoInternter">لم يتم العثور على اتصال بالإنترنت. تحقق من الاتصال</string>
+    <string name="No_earning_history">لا يوجد تاريخ رحلات</string>
+    <string name="Nondeductionsonthesite">عدم الأستدلال علي الموقع</string>
+    <string name="Online">متاح</string>
+    <string name="Passengerrate">التقييم الحالي للراكب</string>
+    <string name="PasswordsendbySMS">تم إرسال كلمة مرور جديدة برسالة علي هاتفك</string>
+    <string name="Promotion">العروض</string>
+    <string name="RIDERFEEDBACK">اراء الركاب</string>
+    <string name="Ratepassanger">تقييم الراكب</string>
+    <string name="Savetowallet">حفظ الباقي في المحفظة</string>
+    <string name="SelectYourChoice">أختار السبب</string>
+    <string name="Shareonsocail">المشاركة علي شبكات التواصل</string>
+    <string name="SiningIN">جاري تسجيل الدخول ...</string>
+    <string name="Start_to_pick">في انتظار التقاط الراكب</string>
+    <string name="TripConfirmed">تم قبول الرحلة</string>
+    <string name="Waiting_for_payment">في انتظار الدفع</string>
+    <string name="Yorcodeis">الكود</string>
+    <string name="Youcancelthetrip">لقد قمت بالغاء الرحلة</string>
+    <string name="Youhavenonewnoti">ليس لديك اي اشعارات جديدة</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about">عن </string>
+    <string name="accept">قبول</string>
+    <string name="accept_time">وقت القبول</string>
+    <string name="accountdeactivated">الملف الشخصي مفعل</string>
+    <string name="action_settings">الأعدادات</string>
+    <string name="add_credit">Add Credit</string>
+    <string name="address1">العنوان 1</string>
+    <string name="address2">العنوان 2</string>
+    <string name="amountaddedsccessfully">تمت إضافة المبلغ بنجاح</string>
+    <string name="app_name">يلا - كابتن</string>
+    <string name="areyousure">هل انت متاكد ؟</string>
+    <string name="arriced">لقد وصلت</string>
+    <string name="arrivallocation">مكان الوصول</string>
+    <string name="arrivalposint">نقطة الوصول</string>
+    <string name="backtomain">العودة للشاشة الرئيسية</string>
+    <string name="basefare">التكلفة الأساسية</string>
+    <string name="build_version">V 3.0</string>
+    <string name="calender"/>
+    <string name="carissue">عطل السيارة</string>
+    <string name="change_car">تغيير </string>
+    <string name="changedate">تغيير التاريخ</string>
+    <string name="changelang">تغيير اللغة</string>
+    <string name="changepass">تغيير كملة المرور</string>
+    <string name="checkout">قم بتلقي الآرء من الركاب واعمل علي تطوير نفسك</string>
+    <string name="city">المدينه </string>
+    <string name="comments">التعليقات</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تفعيل"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تفعيل خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تفعيل خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏مدى توفّر خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="confidone">تمت العملية بنجاح</string>
+    <string name="configyourdevice">الرجاء الانتظار ... حتى يتم تهيئة جهازك للرحلة الأولى ..</string>
+    <string name="copycode">نسخ الكود</string>
+    <string name="currentrate">التقييم الحالي</string>
+    <string name="decline">رفض</string>
+    <string name="dialog_cancell">إلغاء</string>
+    <string name="dialog_okk">موافق</string>
+    <string name="distance">المسافة</string>
+    <string name="done">تم</string>
+    <string name="drivershift">انت الآن غير متاح علي الخريطه</string>
+    <string name="drivinglic">رخصة القيادة</string>
+    <string name="droploc">مكان الوصول</string>
+    <string name="duration">المدة</string>
+    <string name="earn">الأرباح</string>
+    <string name="edit_profile">تعديل</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="email_hint"/>
+    <string name="endofthetrip">انهاء الرحلة الآن</string>
+    <string name="entermoneyamount">ادخل المبلغ :-</string>
+    <string name="enternewpass">أدخل كلمة المرور الجديدة</string>
+    <string name="enteryourpass">أدخل كلمة المرور القديمة</string>
+    <string name="enteryourphonenum">ادخل كلمة رقم الهاتف لتغير كلمة المرور</string>
+    <string name="eranmoremoney">اربح 600 ريال علي كل صديق </string>
+    <string name="exprireDate">تاريخ الانتهاء</string>
+    <string name="feedback">الآراء</string>
+    <string name="findtrip">Find trips toward destination (Soon)</string>
+    <string name="fontstring">fonts/Montserrat-Regular.ttf</string>
+    <string name="forgetpass">هل نسيت كلمة المرور</string>
+    <string name="from">من</string>
+    <string name="guidtodrivwithyalla">مرشدك للقيادة مع يلا</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">مساعدة</string>
+    <string name="hint_name">الاسم او البريد الالكتروني</string>
+    <string name="home">الرئيسية</string>
+    <string name="in_progress">الرحلة مستمرة</string>
+    <string name="invalidtrip">رحلة غير صحيحة</string>
+    <string name="invites">الدعوات</string>
+    <string name="inviteto">قم بدعوه اصدقائك ان اكسب المزيد</string>
+    <string name="invitetocontacts">قم بدعوة جهات اتصالك</string>
+    <string name="issues">المشاكل</string>
+    <string name="lastsixmonth">أخر ستة أشهر</string>
+    <string name="lname">اسم العائلة</string>
+    <string name="locationchanged">المكان تغير</string>
+    <string name="locationnotenable">لم يتم تمكين الموقع</string>
+    <string name="locatioofride">مكان الركوب</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="loginsucceeded">تم تسجيل الدخول بنجاح </string>
+    <string name="logout">جاري تسجيل الخروج....</string>
+    <string name="mapKey">AIzaSyAyKWcogS2vgE52G5ZBj9IXtgqQ7n3cP5A</string>
+    <string name="maplicenses">تراخيص الخرائط</string>
+    <string name="min">د</string>
+    <string name="mobile">رقم الموبيل</string>
+    <string name="mobile_num_hint">رقم الموبيل</string>
+    <string name="model">الموديل</string>
+    <string name="myLocation">موقعي</string>
+    <string name="name">الاسم</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="needtologout">هل تود تسجل الخروج من التطبيق</string>
+    <string name="no">لا</string>
+    <string name="noenofmoney">لا يوجد رصيد كافي في محفظة الراكب </string>
+    <string name="notes">ملاحظات</string>
+    <string name="notification">الأشعارات</string>
+    <string name="offline">غير متاح</string>
+    <string name="oldpassnotcorrect">كلمة المرور القديمة غير صحيحة</string>
+    <string name="onlinenow">أنت الآن متاح علي الخريطة</string>
+    <string name="ooops">عفوا !</string>
+    <string name="open_location_settings">فتح اعدادات تمكين الموقع</string>
+    <string name="paletNumber">رقم اللوحة</string>
+    <string name="pass">كلمة المرور</string>
+    <string name="passangerinfo">تفاصيل الراكب</string>
+    <string name="passchange">تم تغيير كلمة المرور بنجاح</string>
+    <string name="passengercancelthetrip">تم الغاء الرحلة من قبل الراكب</string>
+    <string name="passengerratedone">شكرا .... تم تحديث تقييم الراكب بنجاح</string>
+    <string name="passwordwrong">كلمة المرور خطأ</string>
+    <string name="payNow">ادفع الآن</string>
+    <string name="payment">الدفع</string>
+    <string name="paymentandaccount">الملف الشخصي والدفع</string>
+    <string name="paywithWallet">الدفع من رصيد المحفظة</string>
+    <string name="phonenotexist">الهاتف غير موجود</string>
+    <string name="picklocation"> مكان الألتقاط </string>
+    <string name="plzinstalApp">برجاء تحميل تطبيق الخرائط من جوجل </string>
+    <string name="postcode">الرقم البريدي</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="profitforcurrentmonth">الأرباح للشهر الحالي</string>
+    <string name="profithis">تاريخ الأرباح</string>
+    <string name="promohistory">Promocode History</string>
+    <string name="promotion">العروض</string>
+    <string name="promotionhis">تاريخ العروض</string>
+    <string name="protrips">الرحلات المدفوعه</string>
+    <string name="protriptext">شحذ مهاراتك مع مشورة الخبراء حول أفضل الممارسات</string>
+    <string name="rate">التقيمات</string>
+    <string name="requestaccepted">الطلبات المقبولة</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="sec">ث</string>
+    <string name="seconds">00</string>
+    <string name="shopping">التسوق</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="signningup">تسجيل جديد</string>
+    <string name="signup">ليس لديك ملف علي يلا</string>
+    <string name="signupnow">سجل الآن</string>
+    <string name="sname">الاسم الاول</string>
+    <string name="social_network">وسائل التواصل</string>
+    <string name="softwarelicesns">تراخيض السوفت وير</string>
+    <string name="speed">السرعه</string>
+    <string name="startingposint">نقطة البداية</string>
+    <string name="startthetrip">أبدا الرحلة</string>
+    <string name="state">العاصمه</string>
+    <string name="statistics">الأحصائيات</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="supportmessage">رسائل الدعم</string>
+    <string name="taxes">ضرائب</string>
+    <string name="text_four">اختيارات متعدده حتي تتناسب مع جميع احتياجاتك</string>
+    <string name="text_one">مع يلا سوف تكون آمن وسوف تصل الي كل مكان بكل سهولة</string>
+    <string name="text_three">كون صداقات جديدة</string>
+    <string name="text_two">"تنقل كما لم تتنقل من قبل "</string>
+    <string name="thereisanerror">حدث خطأ ... برجاء المحاولة مره اخري </string>
+    <string name="timeout">انتهي الوقت</string>
+    <string name="to">إلي</string>
+    <string name="totalCost">التكلفة الكلية</string>
+    <string name="totaldistance">المسافة الكلية</string>
+    <string name="totalkm">"عدد الكم "</string>
+    <string name="totalpayout">المدفوعات الكلية</string>
+    <string name="tripAccepted">تم قبول الرحلة</string>
+    <string name="tripCost">تكلفة الرحلة</string>
+    <string name="trip_Already_cancelled">هذه الرحلة ملغية بالفعل</string>
+    <string name="trip_already_completed">تم قبول الرحلة بالفعل</string>
+    <string name="tripandfarereview"/>
+    <string name="tripcompleted">تم انهاء الرحلة بنجاح</string>
+    <string name="tripconfrimed">الرحلة تم تأكيدها بالفعل</string>
+    <string name="triphistory">تاريخ الرحلات</string>
+    <string name="tripinfo">معلومات الرحلة</string>
+    <string name="tripscancelded">الرحلات المرفوضة</string>
+    <string name="tryagin">حاول مرة أخري</string>
+    <string name="userLoginal">هذا المستخدم مسجل علي جهاز اخر </string>
+    <string name="vehicleRegistration"/>
+    <string name="view_profile">عرض </string>
+    <string name="watingtime">وقت الأنتظار</string>
+    <string name="watingtimecost">تكلفة وقت الانتظار</string>
+    <string name="waybill">طرق الدفع</string>
+    <string name="weekprofit">أرباح الأسبوع</string>
+    <string name="yes">نعم</string>
+    <string name="yeslogmeout">نعم تسجيل الخروج</string>
+    <string name="youareintripnow">أنت في رحلة الآن</string>
+    <string name="youareloggedout">تم تسجيل خروجك من النظام</string>
+    <string name="youcancamcelthetrip">لا يمكنك الغاء الرحلة</string>
+    <string name="youhavenewtrip">لديك رحلة جديدة</string>
+    <string name="youwanttocancelthetrip">هل تود الغاء هذه الرحلة</string>
+</resources>

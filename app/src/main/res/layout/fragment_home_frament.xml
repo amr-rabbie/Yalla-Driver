@@ -1,0 +1,281 @@
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mapView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+    <!--<android.support.v4.widget.NestedScrollView-->
+        <!--android:id="@+id/bottom_sheet"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:clipToPadding="true"-->
+        <!--android:background="@color/Wheat"-->
+        <!--app:layout_behavior="android.support.design.widget.BottomSheetBehavior"-->
+        <!--&gt;-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical"-->
+            <!--android:layout_marginBottom="200dp"-->
+            <!--android:id="@+id/updateLocationLayout"-->
+            <!--&gt;-->
+            <!--<android.support.v7.widget.CardView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--app:cardUseCompatPadding="true"-->
+                <!--app:cardElevation="2dp">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:orientation="vertical"-->
+                    <!--android:padding="5dp">-->
+
+                    <!--<LinearLayout-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginBottom="10dp"-->
+                        <!--android:layout_marginTop="5dp"-->
+                        <!--android:orientation="horizontal"-->
+                        <!--android:weightSum="2">-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="40dp"-->
+                            <!--android:layout_weight=".4"-->
+                            <!--android:src="@drawable/feedbackicon"-->
+                            <!--android:tint="@color/gray" />-->
+
+                        <!--<LinearLayout-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_weight="1.4"-->
+                            <!--android:orientation="vertical">-->
+
+                            <!--<TextView-->
+                                <!--android:layout_width="match_parent"-->
+                                <!--android:layout_height="wrap_content"-->
+                                <!--android:text="@string/RIDERFEEDBACK"-->
+                                <!--android:textColor="@color/black"-->
+                                <!--android:textStyle="bold" />-->
+
+                            <!--<TextView-->
+                                <!--android:id="@+id/SpeedMeter"-->
+                                <!--android:layout_width="match_parent"-->
+                                <!--android:layout_height="wrap_content"-->
+                                <!--android:layout_gravity="center_vertical"-->
+                                <!--android:layout_marginTop="5dp"-->
+                                <!--android:text="@string/checkout"-->
+                                <!--android:textColor="@color/black"-->
+                                <!--android:textSize="15sp" />-->
+                        <!--</LinearLayout>-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_gravity="center_vertical"-->
+                            <!--android:layout_weight=".2"-->
+                            <!--android:src="@drawable/ic_keyboard_arrow_right_white_24dp"-->
+                            <!--android:tint="@color/gray" />-->
+                    <!--</LinearLayout>-->
+                <!--</LinearLayout>-->
+            <!--</android.support.v7.widget.CardView>-->
+            <!--<android.support.v7.widget.CardView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--app:cardUseCompatPadding="true"-->
+                <!--app:cardElevation="2dp">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:orientation="vertical"-->
+                    <!--android:padding="5dp">-->
+
+                    <!--<LinearLayout-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginBottom="10dp"-->
+                        <!--android:layout_marginTop="5dp"-->
+                        <!--android:orientation="horizontal"-->
+                        <!--android:weightSum="2">-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="40dp"-->
+                            <!--android:layout_weight=".4"-->
+                            <!--android:src="@drawable/feedbackicon"-->
+                            <!--android:tint="@color/gray" />-->
+
+                        <!--<LinearLayout-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_weight="1.4"-->
+                            <!--android:orientation="vertical">-->
+
+                            <!--<TextView-->
+                                <!--android:layout_width="match_parent"-->
+                                <!--android:layout_height="wrap_content"-->
+                                <!--android:text="@string/RIDERFEEDBACK"-->
+                                <!--android:textColor="@color/black"-->
+                                <!--android:textStyle="bold" />-->
+
+                            <!--<TextView-->
+                                <!--android:layout_width="match_parent"-->
+                                <!--android:layout_height="wrap_content"-->
+                                <!--android:layout_gravity="center_vertical"-->
+                                <!--android:layout_marginTop="5dp"-->
+                                <!--android:text="@string/checkout"-->
+                                <!--android:textColor="@color/black"-->
+                                <!--android:textSize="15sp" />-->
+                        <!--</LinearLayout>-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_gravity="center_vertical"-->
+                            <!--android:layout_weight=".2"-->
+                            <!--android:src="@drawable/ic_keyboard_arrow_right_white_24dp"-->
+                            <!--android:tint="@color/gray" />-->
+                    <!--</LinearLayout>-->
+                <!--</LinearLayout>-->
+            <!--</android.support.v7.widget.CardView>-->
+            <!--<android.support.v7.widget.CardView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--app:cardUseCompatPadding="true"-->
+                <!--app:cardElevation="2dp">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:orientation="vertical"-->
+                    <!--android:padding="5dp">-->
+
+                    <!--<LinearLayout-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginBottom="10dp"-->
+                        <!--android:layout_marginTop="5dp"-->
+                        <!--android:orientation="horizontal"-->
+                        <!--android:weightSum="2">-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="40dp"-->
+                            <!--android:layout_weight=".4"-->
+                            <!--android:src="@drawable/feedbackicon"-->
+                            <!--android:tint="@color/gray" />-->
+
+                        <!--<LinearLayout-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_weight="1.4"-->
+                            <!--android:orientation="vertical">-->
+
+                            <!--<TextView-->
+                                <!--android:layout_width="match_parent"-->
+                                <!--android:layout_height="wrap_content"-->
+                                <!--android:text="@string/RIDERFEEDBACK"-->
+                                <!--android:textColor="@color/black"-->
+                                <!--android:textStyle="bold" />-->
+
+                            <!--<TextView-->
+                                <!--android:layout_width="match_parent"-->
+                                <!--android:layout_height="wrap_content"-->
+                                <!--android:layout_gravity="center_vertical"-->
+                                <!--android:layout_marginTop="5dp"-->
+                                <!--android:text="@string/checkout"-->
+                                <!--android:textColor="@color/black"-->
+                                <!--android:textSize="15sp" />-->
+                        <!--</LinearLayout>-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_gravity="center_vertical"-->
+                            <!--android:layout_weight=".2"-->
+                            <!--android:src="@drawable/ic_keyboard_arrow_right_white_24dp"-->
+                            <!--android:tint="@color/gray" />-->
+                    <!--</LinearLayout>-->
+                <!--</LinearLayout>-->
+            <!--</android.support.v7.widget.CardView>-->
+            <!--<android.support.v7.widget.CardView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--app:cardUseCompatPadding="true"-->
+                <!--app:cardElevation="2dp">-->
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:orientation="vertical"-->
+                    <!--android:padding="5dp">-->
+
+                    <!--<LinearLayout-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginBottom="10dp"-->
+                        <!--android:layout_marginTop="5dp"-->
+                        <!--android:orientation="horizontal"-->
+                        <!--android:weightSum="2">-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="40dp"-->
+                            <!--android:layout_weight=".4"-->
+                            <!--android:src="@drawable/feedbackicon"-->
+                            <!--android:tint="@color/gray" />-->
+
+                        <!--<LinearLayout-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_weight="1.4"-->
+                            <!--android:orientation="vertical">-->
+
+                            <!--<TextView-->
+                                <!--android:layout_width="match_parent"-->
+                                <!--android:layout_height="wrap_content"-->
+                                <!--android:text="@string/RIDERFEEDBACK"-->
+                                <!--android:textColor="@color/black"-->
+                                <!--android:textStyle="bold" />-->
+
+                            <!--<TextView-->
+                                <!--android:layout_width="match_parent"-->
+                                <!--android:layout_height="wrap_content"-->
+                                <!--android:layout_gravity="center_vertical"-->
+                                <!--android:layout_marginTop="5dp"-->
+                                <!--android:text="@string/checkout"-->
+                                <!--android:textColor="@color/black"-->
+                                <!--android:textSize="15sp" />-->
+                        <!--</LinearLayout>-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_gravity="center_vertical"-->
+                            <!--android:layout_weight=".2"-->
+                            <!--android:src="@drawable/ic_keyboard_arrow_right_white_24dp"-->
+                            <!--android:tint="@color/gray" />-->
+                    <!--</LinearLayout>-->
+                <!--</LinearLayout>-->
+            <!--</android.support.v7.widget.CardView>-->
+        <!--</LinearLayout>-->
+
+
+    <!--</android.support.v4.widget.NestedScrollView>-->
+
+</android.support.design.widget.CoordinatorLayout>

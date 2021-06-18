@@ -1,0 +1,797 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+MERGED from [com.roughike:bottom-bar:2.2.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.2.0.aar\17b214c4dc8fe9371e1a4709356b3939\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ec10f34b206b6b1848f9aa182e3a7b82\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\4d026da02e13ee6fd8ce7cc23375286e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.kyleduo.switchbutton:library:1.4.4] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.4.4.aar\66427a60856de8c68fd13842b7d2e2be\AndroidManifest.xml:2:1-12:12
+MERGED from [com.hbb20:ccp:1.7.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\ccp-1.7.2.aar\f437d90c8e7f9fb77ca05bd370aceb3f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.IntruderShanky:Flare:1.0.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\Flare-1.0.2.aar\5c5f5b4b9e24f647fadb0bee7250c94f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\c792a2528f362213cc9455783e7a1f45\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.GrenderG:Toasty:1.2.5] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\Toasty-1.2.5.aar\1e5b6267e3cc7552ac277a4b180774d7\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\4fa279499533686cb620cbb34c3ced82\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\3f5d43af98e3bccfb07717689e6fd4d8\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.5.1.aar\d8887d981dfd0b306a479d7b895cf808\AndroidManifest.xml:2:1-13:12
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\5c0b35f34ead7d4d5a5d1eecb7ee2669\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e7c3aa27d7928d3123776eec9a2b0a46\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\e87a22f82755e3e0fb737dd391ff8a20\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\5af65360d03e8d53cbdb9d32bcbb7eeb\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\2e6c22c86d94577fd6264c3b4246007b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\a605e3a2fb82551f64a832888ceb3fe2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\d92d7ccaeb0fd5cbd2ac6761749bbefc\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1b3030eec16cdb0c7c00e9a58aae3ae2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1ad03a4e0634fa5178deb9e0f59f5868\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\662c104ec3f57f00efe82955f8251a7b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0472d15d4590346e3bb8fbbe03f660d4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\13fbacd71eb24a14e8a5c21e8268756e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c453faa6a5d8fbbf78635167babc5466\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\54d15c5466421bac5e1eb66adaa090cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.medyo:fancybuttons:1.8.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fancybuttons-1.8.3.aar\cd926bf8de7b63ce0c62b318c2d5298c\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\85523d9e015d84b8a457131605473ff2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa0fe7373c11ff15fc1864b4fe454d3c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6910bd89e7ba44d3ab09b868e21b62a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ab2f21be47db72ce1b24091a264e1ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d0583c5e4586c51aa3844137d423f0dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9b81711778fb8c01830e1996f2917cba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29fa4173274ca1eccee7523948a77290\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8db9a07f0045294a22c5a904febc98a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a69875bcd93da6ad7223a9a90e04fbf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8e913960fd184b73aa0739abb06e84cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ad4a2682de6e2ca5f0815dcf86b2ddab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f78b1548c2bf7b8f6e38461951d56aee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e4a81e8b94e1133ba63d35e53064be96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7b702b7909c46479d2882e84c4e5b7f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bce974f324412b00d988da1f90445e18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\346e7ce658f8c2d1d9f14d2d48e8d25b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cb87f4c05e841adc849042a70143f4fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\39a05e327389b73dae49459f9707b503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259bc41da7a25bbe9838cb2fe9410025\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1bef8d4139ac3bc2af180f854137e0c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8f075b78f2a69ac545ce3e295cbadc97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f97f169ec3c2c1809b4eaae6e9eced68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3849cc74085a96e2f95c646ce4d206de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\bc8ac2b68872d5a66e0400cf033a48c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b877fad64b31bafd194e44d5d0071960\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2f66e53b0389f7966933eba38ef2a69b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ce98490328f883ec1f05b7e7625162a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7023e3c4915838444a137bdc730a99ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51d37eae746c4c62d7bc080e43e22232\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05a74acd75a5ade9d41888d33b678174\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\b90be96dc4fe52e5b94e1ac319370154\AndroidManifest.xml:2:1-12:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\c4efc468afd81f9f434b59a3a014c56f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7bb11f0503c6616f42bb66ee4fb08fde\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\8d92744f27fe720330d6a428ee6f837d\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\9323b47c251cc8a1f086a86410efc9e1\AndroidManifest.xml:22:1-33:12
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+	package
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:4:11-38
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:1-206:12
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:6:5-8:34
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:7:9-41
+	android:required
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:8:9-32
+uses-permission#android.permission.INTERNET
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:10:5-66
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\c4efc468afd81f9f434b59a3a014c56f\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\c4efc468afd81f9f434b59a3a014c56f\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7bb11f0503c6616f42bb66ee4fb08fde\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7bb11f0503c6616f42bb66ee4fb08fde\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\8d92744f27fe720330d6a428ee6f837d\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\8d92744f27fe720330d6a428ee6f837d\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\9323b47c251cc8a1f086a86410efc9e1\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\9323b47c251cc8a1f086a86410efc9e1\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:13:5-97
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:13:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:17:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:18:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:20:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:20:22-65
+application
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:22:5-204:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ec10f34b206b6b1848f9aa182e3a7b82\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ec10f34b206b6b1848f9aa182e3a7b82\AndroidManifest.xml:22:5-20
+MERGED from [com.hbb20:ccp:1.7.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\ccp-1.7.2.aar\f437d90c8e7f9fb77ca05bd370aceb3f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.hbb20:ccp:1.7.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\ccp-1.7.2.aar\f437d90c8e7f9fb77ca05bd370aceb3f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.IntruderShanky:Flare:1.0.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\Flare-1.0.2.aar\5c5f5b4b9e24f647fadb0bee7250c94f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.IntruderShanky:Flare:1.0.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\Flare-1.0.2.aar\5c5f5b4b9e24f647fadb0bee7250c94f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\c792a2528f362213cc9455783e7a1f45\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\c792a2528f362213cc9455783e7a1f45\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.5.1.aar\d8887d981dfd0b306a479d7b895cf808\AndroidManifest.xml:11:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.5.1.aar\d8887d981dfd0b306a479d7b895cf808\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\5c0b35f34ead7d4d5a5d1eecb7ee2669\AndroidManifest.xml:11:5-15:19
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\5c0b35f34ead7d4d5a5d1eecb7ee2669\AndroidManifest.xml:11:5-15:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\e87a22f82755e3e0fb737dd391ff8a20\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\e87a22f82755e3e0fb737dd391ff8a20\AndroidManifest.xml:9:5-20
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\5af65360d03e8d53cbdb9d32bcbb7eeb\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\5af65360d03e8d53cbdb9d32bcbb7eeb\AndroidManifest.xml:9:5-10:19
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\2e6c22c86d94577fd6264c3b4246007b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\2e6c22c86d94577fd6264c3b4246007b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\d92d7ccaeb0fd5cbd2ac6761749bbefc\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\d92d7ccaeb0fd5cbd2ac6761749bbefc\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1b3030eec16cdb0c7c00e9a58aae3ae2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1b3030eec16cdb0c7c00e9a58aae3ae2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1ad03a4e0634fa5178deb9e0f59f5868\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1ad03a4e0634fa5178deb9e0f59f5868\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\662c104ec3f57f00efe82955f8251a7b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\662c104ec3f57f00efe82955f8251a7b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0472d15d4590346e3bb8fbbe03f660d4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0472d15d4590346e3bb8fbbe03f660d4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\13fbacd71eb24a14e8a5c21e8268756e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\13fbacd71eb24a14e8a5c21e8268756e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.medyo:fancybuttons:1.8.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fancybuttons-1.8.3.aar\cd926bf8de7b63ce0c62b318c2d5298c\AndroidManifest.xml:11:5-20
+MERGED from [com.github.medyo:fancybuttons:1.8.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fancybuttons-1.8.3.aar\cd926bf8de7b63ce0c62b318c2d5298c\AndroidManifest.xml:11:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\85523d9e015d84b8a457131605473ff2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\85523d9e015d84b8a457131605473ff2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa0fe7373c11ff15fc1864b4fe454d3c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa0fe7373c11ff15fc1864b4fe454d3c\AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259bc41da7a25bbe9838cb2fe9410025\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259bc41da7a25bbe9838cb2fe9410025\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1bef8d4139ac3bc2af180f854137e0c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1bef8d4139ac3bc2af180f854137e0c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\b90be96dc4fe52e5b94e1ac319370154\AndroidManifest.xml:10:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\b90be96dc4fe52e5b94e1ac319370154\AndroidManifest.xml:10:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\c4efc468afd81f9f434b59a3a014c56f\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\c4efc468afd81f9f434b59a3a014c56f\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7bb11f0503c6616f42bb66ee4fb08fde\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7bb11f0503c6616f42bb66ee4fb08fde\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\8d92744f27fe720330d6a428ee6f837d\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\8d92744f27fe720330d6a428ee6f837d\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\9323b47c251cc8a1f086a86410efc9e1\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\9323b47c251cc8a1f086a86410efc9e1\AndroidManifest.xml:31:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259bc41da7a25bbe9838cb2fe9410025\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:26:9-41
+	android:largeHeap
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:29:9-33
+	android:icon
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:25:9-43
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\5c0b35f34ead7d4d5a5d1eecb7ee2669\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:28:9-40
+	tools:replace
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:31:9-29
+	android:usesCleartextTraffic
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:23:9-55
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:37:9-39:45
+	android:value
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:39:13-43
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:38:13-58
+activity#com.asi.yalla_egy.MainActivity
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:41:9-45:58
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:43:13-45
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:42:13-58
+activity#com.asi.yalla_egy.SplachScreen
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:46:9-55:20
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:48:13-49
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:47:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:51:17-68
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:53:27-74
+activity#com.asi.yalla_egy.RiderFeedBack
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:56:9-61:46
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:60:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:59:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:58:13-45
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:57:13-59
+activity#com.asi.yalla_egy.Login
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:62:9-65:58
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:64:13-49
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:63:13-51
+activity#com.asi.yalla_egy.EditeProfile
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:66:9-70:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:70:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:69:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:68:13-50
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:67:13-58
+activity#com.asi.yalla_egy.PayStatement
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:71:9-75:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:75:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:74:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:73:13-41
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:72:13-58
+activity#com.asi.yalla_egy.Settings
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:76:9-80:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:80:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:79:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:78:13-52
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:77:13-54
+activity#com.asi.yalla_egy.NotificationAct
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:81:9-89:20
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:83:13-51
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:85:13-56
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:82:13-61
+intent-filter#action:name:com.asi.yalla.Services
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:86:13-88:29
+action#com.asi.yalla.Services
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:87:17-64
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:87:25-62
+service#com.asi.yalla_egy.Services.LocationTrack
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:91:9-95:45
+	android:enabled
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:93:13-35
+	android:launchMode
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:95:13-43
+	android:exported
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:94:13-36
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:92:13-68
+activity#com.asi.yalla_egy.ShowRoute
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:97:9-99:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:98:13-55
+activity#com.asi.yalla_egy.TripCoastAndPay
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:100:9-104:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:104:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:103:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:102:13-45
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:101:13-61
+activity#com.asi.yalla_egy.TripCompleted
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:105:9-108:58
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:107:13-49
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:108:13-56
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:106:13-59
+activity#com.asi.yalla_egy.ForgetPassword
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:109:9-113:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:113:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:112:13-65
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:111:13-47
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:110:13-60
+receiver#com.asi.yalla_egy.Services.checkNewRequest
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:115:9-78
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:115:19-76
+activity#com.asi.yalla_egy.Intro
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:117:9-120:71
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:119:13-49
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:120:13-69
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:118:13-51
+activity#com.asi.yalla_egy.Documents
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:121:9-124:74
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:124:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:123:13-46
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:122:13-55
+activity#com.asi.yalla_egy.About
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:125:9-129:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:129:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:128:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:127:13-42
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:126:13-51
+activity#com.asi.yalla_egy.Help
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:130:9-134:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:134:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:133:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:132:13-41
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:131:13-50
+activity#com.asi.yalla_egy.Invites
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:135:9-137:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:137:13-49
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:136:13-53
+activity#com.asi.yalla_egy.TripsHistory
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:138:9-142:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:142:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:141:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:140:13-52
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:139:13-58
+service#com.asi.yalla_egy.Services.StopwatchService
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:144:9-78
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:144:18-76
+activity#com.asi.yalla_egy.LoginSignup
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:146:9-149:58
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:148:13-49
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:149:13-56
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:147:13-57
+activity#com.asi.yalla_egy.CompletedTripDetial
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:150:9-154:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:154:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:153:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:152:13-45
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:151:13-65
+activity#com.asi.yalla_egy.ChangePassword
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:155:9-157:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:157:13-49
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:156:13-60
+activity#com.asi.yalla_egy.ImageViewForDoc
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:158:9-162:64
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:160:13-29
+	android:theme
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:162:13-62
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:159:13-61
+receiver#com.asi.yalla_egy.Services.StartServiceAginBroadcast
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:165:9-170:20
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:165:19-86
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:com.asi.yalla
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:166:13-169:29
+action#com.asi.yalla
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:167:17-55
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:167:25-53
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:168:17-78
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:168:25-76
+activity#com.asi.yalla_egy.TaxiProfile
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:172:9-176:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:176:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:175:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:174:13-51
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:173:13-57
+receiver#com.asi.yalla_egy.Services.LogoutBreoadCastReciver
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:178:9-86
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:178:19-84
+activity#com.asi.yalla_egy.Guid_Driver_Activity
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:180:9-184:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:184:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:183:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:182:13-56
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:181:13-66
+activity#com.asi.yalla_egy.DriverPromoCodeHistory
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:185:9-189:51
+	android:screenOrientation
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:189:13-49
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:188:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:187:13-49
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:186:13-68
+activity#com.asi.yalla_egy.ProfitHistory
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:190:9-193:82
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:193:13-80
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:192:13-46
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:191:13-59
+activity#com.asi.yalla_egy.LastSixMonthActivity
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:194:9-197:74
+	android:parentActivityName
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:197:13-72
+	android:label
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:196:13-49
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:195:13-66
+activity#com.asi.yalla_egy.NOInternetActivity
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:198:9-200:20
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:198:19-70
+meta-data#io.fabric.ApiKey
+ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:201:9-203:72
+	android:value
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:203:13-69
+	android:name
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml:202:13-44
+uses-sdk
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+MERGED from [com.roughike:bottom-bar:2.2.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.2.0.aar\17b214c4dc8fe9371e1a4709356b3939\AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:2.2.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\bottom-bar-2.2.0.aar\17b214c4dc8fe9371e1a4709356b3939\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ec10f34b206b6b1848f9aa182e3a7b82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\ec10f34b206b6b1848f9aa182e3a7b82\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\4d026da02e13ee6fd8ce7cc23375286e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\4d026da02e13ee6fd8ce7cc23375286e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kyleduo.switchbutton:library:1.4.4] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.4.4.aar\66427a60856de8c68fd13842b7d2e2be\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kyleduo.switchbutton:library:1.4.4] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.4.4.aar\66427a60856de8c68fd13842b7d2e2be\AndroidManifest.xml:8:5-10:41
+MERGED from [com.hbb20:ccp:1.7.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\ccp-1.7.2.aar\f437d90c8e7f9fb77ca05bd370aceb3f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hbb20:ccp:1.7.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\ccp-1.7.2.aar\f437d90c8e7f9fb77ca05bd370aceb3f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.IntruderShanky:Flare:1.0.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\Flare-1.0.2.aar\5c5f5b4b9e24f647fadb0bee7250c94f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.IntruderShanky:Flare:1.0.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\Flare-1.0.2.aar\5c5f5b4b9e24f647fadb0bee7250c94f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\c792a2528f362213cc9455783e7a1f45\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\c792a2528f362213cc9455783e7a1f45\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GrenderG:Toasty:1.2.5] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\Toasty-1.2.5.aar\1e5b6267e3cc7552ac277a4b180774d7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.GrenderG:Toasty:1.2.5] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\Toasty-1.2.5.aar\1e5b6267e3cc7552ac277a4b180774d7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\4fa279499533686cb620cbb34c3ced82\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\4fa279499533686cb620cbb34c3ced82\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\3f5d43af98e3bccfb07717689e6fd4d8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\3f5d43af98e3bccfb07717689e6fd4d8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.5.1.aar\d8887d981dfd0b306a479d7b895cf808\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\library-1.5.1.aar\d8887d981dfd0b306a479d7b895cf808\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\5c0b35f34ead7d4d5a5d1eecb7ee2669\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.0.aar\5c0b35f34ead7d4d5a5d1eecb7ee2669\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e7c3aa27d7928d3123776eec9a2b0a46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e7c3aa27d7928d3123776eec9a2b0a46\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\e87a22f82755e3e0fb737dd391ff8a20\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\e87a22f82755e3e0fb737dd391ff8a20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\5af65360d03e8d53cbdb9d32bcbb7eeb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\5af65360d03e8d53cbdb9d32bcbb7eeb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\23997df59c94ab1f76ca38c733212453\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\2e6c22c86d94577fd6264c3b4246007b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\2e6c22c86d94577fd6264c3b4246007b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\a605e3a2fb82551f64a832888ceb3fe2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\a605e3a2fb82551f64a832888ceb3fe2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\d92d7ccaeb0fd5cbd2ac6761749bbefc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\d92d7ccaeb0fd5cbd2ac6761749bbefc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1b3030eec16cdb0c7c00e9a58aae3ae2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\1b3030eec16cdb0c7c00e9a58aae3ae2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1ad03a4e0634fa5178deb9e0f59f5868\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1ad03a4e0634fa5178deb9e0f59f5868\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\662c104ec3f57f00efe82955f8251a7b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\662c104ec3f57f00efe82955f8251a7b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0472d15d4590346e3bb8fbbe03f660d4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\0472d15d4590346e3bb8fbbe03f660d4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\13fbacd71eb24a14e8a5c21e8268756e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\13fbacd71eb24a14e8a5c21e8268756e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c453faa6a5d8fbbf78635167babc5466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c453faa6a5d8fbbf78635167babc5466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\54d15c5466421bac5e1eb66adaa090cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\54d15c5466421bac5e1eb66adaa090cf\AndroidManifest.xml:20:5-44
+MERGED from [com.github.medyo:fancybuttons:1.8.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fancybuttons-1.8.3.aar\cd926bf8de7b63ce0c62b318c2d5298c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.medyo:fancybuttons:1.8.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fancybuttons-1.8.3.aar\cd926bf8de7b63ce0c62b318c2d5298c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\85523d9e015d84b8a457131605473ff2\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\85523d9e015d84b8a457131605473ff2\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa0fe7373c11ff15fc1864b4fe454d3c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fa0fe7373c11ff15fc1864b4fe454d3c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6910bd89e7ba44d3ab09b868e21b62a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6910bd89e7ba44d3ab09b868e21b62a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ab2f21be47db72ce1b24091a264e1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ab2f21be47db72ce1b24091a264e1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d0583c5e4586c51aa3844137d423f0dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d0583c5e4586c51aa3844137d423f0dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9b81711778fb8c01830e1996f2917cba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9b81711778fb8c01830e1996f2917cba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29fa4173274ca1eccee7523948a77290\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29fa4173274ca1eccee7523948a77290\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8db9a07f0045294a22c5a904febc98a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8db9a07f0045294a22c5a904febc98a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a69875bcd93da6ad7223a9a90e04fbf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a69875bcd93da6ad7223a9a90e04fbf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8e913960fd184b73aa0739abb06e84cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8e913960fd184b73aa0739abb06e84cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ad4a2682de6e2ca5f0815dcf86b2ddab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ad4a2682de6e2ca5f0815dcf86b2ddab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f78b1548c2bf7b8f6e38461951d56aee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f78b1548c2bf7b8f6e38461951d56aee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e4a81e8b94e1133ba63d35e53064be96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e4a81e8b94e1133ba63d35e53064be96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7b702b7909c46479d2882e84c4e5b7f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7b702b7909c46479d2882e84c4e5b7f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bce974f324412b00d988da1f90445e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bce974f324412b00d988da1f90445e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\346e7ce658f8c2d1d9f14d2d48e8d25b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\346e7ce658f8c2d1d9f14d2d48e8d25b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cb87f4c05e841adc849042a70143f4fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cb87f4c05e841adc849042a70143f4fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\39a05e327389b73dae49459f9707b503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\39a05e327389b73dae49459f9707b503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259bc41da7a25bbe9838cb2fe9410025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\259bc41da7a25bbe9838cb2fe9410025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1bef8d4139ac3bc2af180f854137e0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1bef8d4139ac3bc2af180f854137e0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8f075b78f2a69ac545ce3e295cbadc97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8f075b78f2a69ac545ce3e295cbadc97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f97f169ec3c2c1809b4eaae6e9eced68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f97f169ec3c2c1809b4eaae6e9eced68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3849cc74085a96e2f95c646ce4d206de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3849cc74085a96e2f95c646ce4d206de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\bc8ac2b68872d5a66e0400cf033a48c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\bc8ac2b68872d5a66e0400cf033a48c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b877fad64b31bafd194e44d5d0071960\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b877fad64b31bafd194e44d5d0071960\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2f66e53b0389f7966933eba38ef2a69b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2f66e53b0389f7966933eba38ef2a69b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ce98490328f883ec1f05b7e7625162a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ce98490328f883ec1f05b7e7625162a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7023e3c4915838444a137bdc730a99ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7023e3c4915838444a137bdc730a99ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51d37eae746c4c62d7bc080e43e22232\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\51d37eae746c4c62d7bc080e43e22232\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05a74acd75a5ade9d41888d33b678174\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05a74acd75a5ade9d41888d33b678174\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\b90be96dc4fe52e5b94e1ac319370154\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\b90be96dc4fe52e5b94e1ac319370154\AndroidManifest.xml:6:5-8:41
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\c4efc468afd81f9f434b59a3a014c56f\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\c4efc468afd81f9f434b59a3a014c56f\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7bb11f0503c6616f42bb66ee4fb08fde\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\7bb11f0503c6616f42bb66ee4fb08fde\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\8d92744f27fe720330d6a428ee6f837d\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\8d92744f27fe720330d6a428ee6f837d\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\9323b47c251cc8a1f086a86410efc9e1\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\9323b47c251cc8a1f086a86410efc9e1\AndroidManifest.xml:27:5-43
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Last Versions\Yalla-Driver\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:25:9-29:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:25:18-89
+meta-data#com.google.firebase.components:com.google.firebase.crash.component.FirebaseCrashRegistrar
+ADDED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:26:13-28:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:16.2.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-crash-16.2.1.aar\18c8d45d5820d0604b33f07566861abf\AndroidManifest.xml:27:17-121
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\86ed5cb8efb9d18ddb4b4e5ae4cb3c98\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\409db8b42eeb0ef4bb9ad7d6553aa69a\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\986d6465e820a5ae248646d9b087c528\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\13fbacd71eb24a14e8a5c21e8268756e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\13fbacd71eb24a14e8a5c21e8268756e\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\13fbacd71eb24a14e8a5c21e8268756e\AndroidManifest.xml:24:13-58
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\a.rabie\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\7bf0c40d4232b07ffcba1d59b0b376c0\AndroidManifest.xml:13:13-75

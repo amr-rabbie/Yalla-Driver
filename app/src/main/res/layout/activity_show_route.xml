@@ -1,0 +1,235 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fancy="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1.2"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tvPassangerName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Anwar Samir"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:textStyle="bold" />
+                    <!--<TextView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="Current location"-->
+                    <!--android:textAlignment="center"-->
+                    <!--android:layout_marginTop="5dp"-->
+                    <!--android:textColor="@color/gray"-->
+                    <!--android:textSize="13sp"-->
+                    <!--/>-->
+
+                    <mehdi.sakout.fancybuttons.FancyButton
+
+                        android:id="@+id/btn_call_passenger"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:padding="3dp"
+                        fancy:fb_borderColor="#FFFFFF"
+                        fancy:fb_defaultColor="#7ab800"
+                        fancy:fb_focusColor="#9bd823"
+                        fancy:fb_fontIconResource="&#xf095;"
+                        fancy:fb_iconPosition="left"
+                        fancy:fb_radius="2dp"
+                        fancy:fb_text="@string/Call"
+                        fancy:fb_textColor="#FFFFFF"
+                        fancy:fb_textFont="@string/fontstring" />
+                </LinearLayout>
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="0dp"
+                    android:id="@+id/ivPassanger"
+                    android:layout_height="70dp"
+                    android:layout_weight=".8"
+                    android:src="@drawable/user" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/gray" />
+
+            <LinearLayout
+                android:id="@+id/currenttripdata_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+
+                android:visibility="gone"
+                android:weightSum="3">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/watingtime"
+                        android:textAlignment="center" />
+
+                    <TextView
+                        android:id="@+id/tv_watting_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="00:00:00"
+                        android:textAlignment="center" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/speed"
+                        android:textAlignment="center" />
+
+                    <TextView
+                        android:id="@+id/tv_km"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="100 km/h"
+                        android:textAlignment="center" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/totalkm"
+                        android:textAlignment="center" />
+
+                    <TextView
+                        android:id="@+id/tvTotalKm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="00:00"
+                        android:textAlignment="center" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <fragment android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+        <mehdi.sakout.fancybuttons.FancyButton
+            android:id="@+id/btn_cancel_trip"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="5dp"
+            fancy:fb_defaultColor="#d90a28"
+            fancy:fb_focusColor="#93a76a"
+            fancy:fb_iconPosition="left"
+            fancy:fb_radius="25dp"
+            fancy:fb_fontIconResource="&#xf00d;"
+            fancy:fb_textFont="@string/fontstring"
+            fancy:fb_textColor="#FFFFFF"
+            fancy:fb_text=""
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/gps_navigator"
+                android:layout_marginStart="20dp"
+                android:onClick="goToGoogleMap"
+                />
+
+            <mehdi.sakout.fancybuttons.FancyButton
+                android:id="@+id/btn_drive"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="15dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="15dp"
+                android:layout_margin="16dp"
+                fancy:fb_borderWidth="1dp"
+                android:layout_gravity="bottom"
+                fancy:fb_defaultColor="#7ab800"
+                fancy:fb_focusColor="#93a76a"
+                fancy:fb_iconPosition="left"
+                fancy:fb_radius="3dp"
+
+                fancy:fb_textFont="@string/fontstring"
+                fancy:fb_text="@string/arriced"
+                fancy:fb_textColor="#FFFFFF"
+                />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

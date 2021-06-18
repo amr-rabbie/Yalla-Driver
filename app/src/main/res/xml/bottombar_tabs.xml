@@ -1,0 +1,35 @@
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_black_24dp"
+        title="@string/home"
+        barColorWhenSelected="#1A4299"
+        />
+    <tab
+        id="@+id/tab_earnings"
+        icon="@drawable/ic_monetization_on_black_24dp"
+        title="@string/earn"
+        barColorWhenSelected="#4045ae"
+
+        />
+    <tab
+        id="@+id/tab_ratings"
+        icon="@drawable/ic_stars_black_24dp"
+        title="@string/rate"
+        barColorWhenSelected="#b35614"
+        />
+    <tab
+        id="@+id/tab_notification"
+        icon="@drawable/ic_notifications_black_24dp"
+        title="@string/notification"
+        barColorWhenSelected="#b3152f"
+        />
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_account_circle_black_24dp"
+        title="@string/profile"
+        barColorWhenSelected="#af148b"
+        />
+
+
+</tabs>

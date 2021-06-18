@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fancy="http://schemas.android.com/apk/res-auto">
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_trips_history"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.asi.yalla_egy.TripsHistory">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/loadingLayout"
+            >
+            <ProgressBar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/LOADING"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:layout_marginTop="5dp"
+                />
+        </LinearLayout>
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rvTripsHis"
+            />
+    </FrameLayout>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        fancy:cardElevation="5dp"
+        fancy:cardBackgroundColor="@color/offWhite"
+        android:layout_alignParentBottom="true"
+
+        >
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
+

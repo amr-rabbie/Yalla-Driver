@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A4299</color>
+    <color name="colorPrimaryDark">#1A4299</color>
+    <color name="colorAccent">#fbba15</color>
+    <color name="Wheat">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#60000000</color>
+    <color name="theme_color">#fbba15</color>
+
+    <color name="header_color">#e7e7e7</color>
+
+
+
+    <color name="scrbg">#FCF9F9</color>
+    <color name="listitem_default_color">#F9F9F9</color>
+    <color name="listitem_pressed_color">#a2a2a2</color>
+    <color name="listitem_focused_color">#646464</color>
+    <color name="sliderbg_color">#6f6f6f</color>
+    <color name="accept">#70AA29</color>
+    <color name="black_bg_CE">#181818</color>
+    <color name="black_bg_S">#040404</color>
+    <color name="decline">#C9C8C8</color>
+    <color name="timer_stroke">#171717</color>
+
+    <!-- demo changes -->
+    <color name="lightgrey">#e6e6e6</color>
+    <color name="dashtxtclr">#878787</color>
+    <color name="trip_history_bg">#dddedf</color>
+    <color name="red">#3087a9</color>
+    <color name="offWhite">#f3f3f3</color>
+    <color name="tintblack">#b3afaf</color>
+
+    <color name="firstColor">#3B5998</color>
+    <color name="secondColor">#55acee</color>
+    <color name="thirdColor">#D35400</color>
+    <color name="fourthColor">#4CAF50</color>
+
+    <color name="light_green">#3eb74e</color>
+    <color name="light_purple">#8c61b3</color>
+    <color name="light_orange">#ffb500</color>
+    <color name="light_cyan">#00BCD4</color>
+</resources>

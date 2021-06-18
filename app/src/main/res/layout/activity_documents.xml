@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fancy="http://schemas.android.com/apk/res-auto"
+    >
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_documents"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/Wheat"
+        tools:context="com.asi.yalla_egy.Documents">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/offWhite"
+            android:padding="10dp"
+            android:text="@string/Driverdoc"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/drivinglic"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tvDriverlicencesExpireDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Expires: Oct 1.2021"
+                android:layout_marginTop="10dp"
+                />
+            <mehdi.sakout.fancybuttons.FancyButton
+                android:id="@+id/btn_view_driver_licenes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:layout_marginTop="10dp"
+                fancy:fb_borderColor="#FFFFFF"
+                fancy:fb_textFont="@string/fontstring"
+                android:layout_gravity="center"
+                fancy:fb_defaultColor="@color/colorPrimary"
+                fancy:fb_focusColor="@color/Wheat"
+                fancy:fb_fontIconResource="&#xf06e;"
+                fancy:fb_iconPosition="left"
+                fancy:fb_radius="1dp"
+                fancy:fb_text="@string/viewvdriverinsuranceUrl"
+                fancy:fb_textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/sliderbg_color"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Iqama"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Expires: Oct 1.2021"
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/sliderbg_color"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/JobCard"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Expires: Oct 1.2021"
+                android:layout_marginTop="10dp"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/offWhite"
+            android:padding="10dp"
+            android:text="BMW xvder"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vehicleRegistration"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tvVehicleLicenseExpireDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Expires: Oct 1.2021"
+                android:layout_marginTop="10dp"
+                />
+            <mehdi.sakout.fancybuttons.FancyButton
+                android:id="@+id/btn_view_vehicle_license"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:layout_marginTop="10dp"
+                fancy:fb_borderColor="#FFFFFF"
+                fancy:fb_textFont="@string/fontstring"
+                android:layout_gravity="center"
+                fancy:fb_defaultColor="@color/colorPrimary"
+                fancy:fb_focusColor="@color/Wheat"
+                fancy:fb_fontIconResource="&#xf06e;"
+                fancy:fb_iconPosition="left"
+                fancy:fb_radius="1dp"
+                fancy:fb_text="@string/viewvVehicleLicenseUrl"
+                fancy:fb_textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/sliderbg_color"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vehicleinsurance"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Expires: Oct 1.2021"
+                android:layout_marginTop="10dp"
+                />
+            <mehdi.sakout.fancybuttons.FancyButton
+                android:id="@+id/btn_view_vehicle_insurance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:layout_marginTop="10dp"
+                fancy:fb_borderColor="#FFFFFF"
+                fancy:fb_textFont="@string/fontstring"
+                android:layout_gravity="center"
+                fancy:fb_defaultColor="@color/colorPrimary"
+                fancy:fb_focusColor="@color/Wheat"
+                fancy:fb_fontIconResource="&#xf06e;"
+                fancy:fb_iconPosition="left"
+                fancy:fb_radius="1dp"
+                fancy:fb_text="@string/viewvVehicleinsuranceUrl"
+                fancy:fb_textColor="#FFFFFF" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
+

@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Mon Apr 01 17:29:14 EET 2019
+2.base=D\:\\android\\Last Versions\\Yalla-Driver\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+5.set=ASSET
+0.path=fonts/fontawesome.ttf
+2.baseType=DIRECTORY
+3.base=D\:\\android\\Last Versions\\Yalla-Driver\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.set=ASSET
+1.path=fonts/Montserrat-Regular.ttf
+4.base=D\:\\android\\Last Versions\\Yalla-Driver\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+count=7
+5.baseType=DIRECTORY
+2.path=crashlytics-build.properties
+5.base=D\:\\android\\Last Versions\\Yalla-Driver\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.set=DEX
+3.path=fonts/fontawesome-webfont.ttf
+6.base=D\:\\android\\Last Versions\\Yalla-Driver\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=fonts/Google Android License.txt.txt
+0.base=D\:\\android\\Last Versions\\Yalla-Driver\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=fonts/robotoregular.ttf
+1.base=D\:\\android\\Last Versions\\Yalla-Driver\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.baseType=DIRECTORY
+0.set=ASSET

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "153098961540",
+    "firebase_url": "https://yalla-75e8f.firebaseio.com",
+    "project_id": "yalla-75e8f",
+    "storage_bucket": "yalla-75e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153098961540:android:4b7c54bea1eee639",
+        "android_client_info": {
+          "package_name": "com.asi.yalla_egy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153098961540-jt8cvcah8skodelphtdgflitgmmg25tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYt2gpLdr36WsLsH8siOpVNl_0_XVeO0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
