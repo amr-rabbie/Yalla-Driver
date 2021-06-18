@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Yalla-Driver.iml" filepath="$PROJECT_DIR$/.idea/Yalla-Driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yalla-Driver.iml" filepath="$PROJECT_DIR$/Yalla-Driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
